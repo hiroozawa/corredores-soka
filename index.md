@@ -7,7 +7,7 @@ title: Corredores Soka
 
 
 <div class="botao-destaque">
-  <a href="https://drive.google.com/drive/folders/1s6MNOkZtUkGdM4f89Jbv9hUxVZjlYbGO/view" target="_blank">
+  <a href="https://drive.google.com/file/d/1LFGzhLOaCwOkjlXLITF9SirSxMrHNE0m/view" target="_blank">
     Conheça o desafio da semana
   </a>
 </div>
